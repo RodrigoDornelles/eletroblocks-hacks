@@ -1,5 +1,7 @@
 # Eletroblock Hacks
 
+> Modificações de hardware e software para explorar além dos [@eletroblocks](https://github.com/eletroblocks), _hackeie para criar!_
+
 | # | Data | Projeto | Clique na imagem para ir |
 | :-: | :-: | :- | :-: |
 | 1º | 18/09/2021 | Led acende com potenciometro | [![hack-1](hack-1/thumb.jpeg)](hack-1) |
