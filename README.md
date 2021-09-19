@@ -1,4 +1,4 @@
-# eletroblock-hacks
+# Eletroblock Hacks
 
 | # | Data | Projeto | Clique na imagem para ir |
 | :-: | :-: | :- | :-: |
